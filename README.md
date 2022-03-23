@@ -10,7 +10,7 @@ I decided to test whether this hypothesis was true by getting a random sample of
 
 My first experiment was conducted in Portland because I live there, and thus knew about the fantastic database of addresses at [Portland Maps](https://www.portlandmaps.com/). 
 
-This [Jupyter notebook](https://jupyter.org/) contains all the steps used to prepare the addresses, order the tests, geocode and append Census data, and conduct analyses to test hypotheses. 
+My [Jupyter notebook](https://github.com/jaedowning/covid-tests/blob/main/COVID_Tests.ipynb) contains all the steps used to prepare the addresses, order the tests, geocode and append Census data, and conduct analyses to test hypotheses. 
 
 This project requires:
 
